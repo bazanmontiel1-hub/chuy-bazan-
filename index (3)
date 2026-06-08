@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Frame vertical</title>
+</head>
+
+<frameset cols="17%, *">
+  <frame src="menu.html">
+  <frame src="verde.html" name="derecha">
+</frameset>
+
+</html>
