@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Menú</title>
+</head>
+
+<body>
+
+<h1>Menú</h1>
+
+<a href="azul.html"><img src="FOTOS/azul.jpg">Azul</a>
+<a href="verde.html"><img src="FOTOS/verde.jpg">Verde</a>
+<a href="rojo.html"><img src="FOTOS/rojo.jpg">Rojo</a>
+
+</body>
+</html>
